@@ -1,2 +1,2 @@
-# Alfresco-Assoc
+# IQ
 Example of Alfresco associations
